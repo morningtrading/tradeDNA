@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Freqtrade
+user_data/
+backtest_results/
+hyperopt_results/
+logs/
+
+# Environment files
+.env
+*.env
+
+# OS
+.DS_Store
+Thumbs.db

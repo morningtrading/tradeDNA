@@ -1,0 +1,4 @@
+{
+  "spaces": ["buy", "sell", "roi", "stoploss"],
+  "epochs": 1000
+}

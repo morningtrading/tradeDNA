@@ -1,0 +1,8 @@
+{
+  "protections": [
+    {
+      "method": "CooldownPeriod",
+      "stop_duration_candles": 10
+    }
+  ]
+}
